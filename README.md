@@ -1,5 +1,4 @@
-# CPU Toggle <a href="https://github.com/TheVoidBlock/cpu-toggle/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/thevoidblock/cpu-toggle?include_prereleases&logo=github&label=RELEASE">
-</a>
+# CPU Toggle <a href="https://github.com/TheVoidBlock/cpu-toggle/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/thevoidblock/cpu-toggle?include_prereleases&logo=github&label=RELEASE&style=for-the-badge"></a>
 
 
 ## Overview
