@@ -8,7 +8,7 @@ arch=("x86_64")
 depends=("bash" "findutils" "coreutils" "ncurses" "tcl" "grep")
 license=("GPL-3")
 source=("cpu-toggle")
-sha512sums=('9d40e7356a265ee24d61d9258d82bd9cbeaa5011becfd097831194c1d475b73a11e34e4f737c88f2d82726392acc5ad90565a4b767035c5ba33be33529e2fa6f' 'SKIP')
+sha512sums=('d6f99c06e2a84ccdec171c0c8e8e3ce4196554afae8cf9f59d2f61e211c0d9e0' 'SKIP')
 
 package() {
 	mkdir -p ${pkgdir}/usr/bin
