@@ -1,4 +1,5 @@
-# CPU Toggle <a href="https://github.com/TheVoidBlock/cpu-toggle/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/thevoidblock/cpu-toggle?include_prereleases&logo=github&label=RELEASE&style=for-the-badge"></a>
+# CPU Toggle <a href="https://github.com/TheVoidBlock/cpu-toggle/releases/latest"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/thevoidblock/cpu-toggle?include_prereleases&logo=github&label=RELEASE&style=for-the-badge"></a> <a href="https://www.gnu.org/licenses/gpl-3.0.en.html"><img alt="License" src="https://www.gnu.org/graphics/gplv3-127x51.png"></a>
+
 
 
 ## Overview
